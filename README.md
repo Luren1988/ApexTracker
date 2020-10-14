@@ -20,4 +20,4 @@ Wifiに接続する必要があるので、SSID,Passwordを適宜追加する
 
 
 
-![char_recogniton mov](https://user-images.githubusercontent.com/66073980/95963546-c8893e00-0e42-11eb-9717-3b1521328ebc.gif)
+![tracker](https://user-images.githubusercontent.com/66073980/95964692-09358700-0e44-11eb-8e18-230fe28e612d.gif)
